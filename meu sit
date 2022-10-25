@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" hf="principe.css">
+<title>os sete maridos de evelyn hugo</title>
+</head>
+<body>
+<div class="wrapper">
+<div></div>
+<img id="olive" src="olive.jpg" height="420" width="327">
+</div>
+
+<div class="produto-info">
+<div class="produto-texto">
+<h1>Os sete maridos de evelyn hugo</h1>
+<h2>Peter V Brett</h2>
+<p>Sinose autora tylor jenskins reid quando completa 80 anos a famosa artista evelyn hugo
+ recruta a jornalista monique grant para escrever sua biagrafia,e nesse senario ue vamos
+descobrindo paulatinamente os segredos mais intimos.    </p>
+</div>
+
+<div class="precobotao">
+<p></span>R$ 31,40<span></p>
+      <button type="button">compre</button>
+       </div> 
+   </div>
+</body>
+</html>
